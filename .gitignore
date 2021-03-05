@@ -1,3 +1,5 @@
 *cachedir
 *lightcurve*
 *.zip
+*.rar
+*ipynb_checkpoint*
