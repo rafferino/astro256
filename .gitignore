@@ -3,3 +3,7 @@
 *.zip
 *.rar
 *ipynb_checkpoint*
+*fits_files*
+*.fits
+*CP*
+*Tiffany*
